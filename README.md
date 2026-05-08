@@ -1,4 +1,4 @@
-# GitHub Copilot CLI
+ee0d4fc47031ba6fa84d29d35450beaafd14dc6f# GitHub Copilot CLI
 
 The power of GitHub Copilot, now in your terminal.
 
