@@ -1,4 +1,4 @@
-# GitHub Copilot CLI
+ICC# GitHub Copilot CLI
 
 The power of GitHub Copilot, now in your terminal.
 
